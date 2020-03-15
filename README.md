@@ -1,2 +1,2 @@
 # static
-Udacity project 3: Jenkins Pipelines on AWS
+Udacity project 3: This is about building CI/CD Pipelines
